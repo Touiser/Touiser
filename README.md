@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Touiser
 - 👀 I’m interested in ML and BlockChain
-- 🌱 I’m currently learning ML and DL with python
+- 🌱 Front-end developer
 - 📫 How to reach me Email : mahditouiserkani@yahoo.com
 
 <!---
